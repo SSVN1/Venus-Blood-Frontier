@@ -1,0 +1,19 @@
+#dabar{
+	background: #1b58b8;
+	color: #fff;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 10px 0px;
+	text-align: center;
+	font-family: Arial, Helvetica, Verdana, Sans-serif;
+	font-size: 14px;
+}
+
+#dabar a{ 
+        color: #fff; 
+        text-decoration:underline; 
+        font-weight: normal; 
+		    font-family: Arial, Helvetica, Verdana, Sans-serif;
+}
