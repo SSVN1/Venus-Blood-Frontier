@@ -28,6 +28,12 @@ h3 {
     font-size: 125%;
     line-height:100%;
 }
+
+h4 {
+    font-weight: 50;
+    font-size: 15px;
+    line-height:100%;
+}
 #header {
     height: 90px;
 }
